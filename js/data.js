@@ -74,5 +74,7 @@ var JSONBingo = {"squares": [
         {"square": "Will apologizes for being human"},
         {"square": "Will apologizes for taking a tea break"},
         {"square": "Will explains double jumping"},
+        {"square": "Press T to talk ..."},
+        {"square": "The Club something"},
     ]
 };
