@@ -33,7 +33,7 @@ var JSONBingo = {"squares": [
         {"square": "SPLEEN THRONE"},
         {"square": "Moose, no! - Moose yes, Moose always yes!"},
         {"square": "Hotel Scipio"},
-        {"square": "Eat the rich!"},    	
+        //{"square": "Eat the rich!"},    	
         {"square": "*Will is sorry for something*"},    	
         {"square": "*Will makes a weird face*"},    	
         {"square": "Jumping back into chat"},    	
@@ -92,5 +92,8 @@ var JSONBingo = {"squares": [
         {"square": "This bad word"},
         {"square": "Sneaky hype train"},
         {"square": "Suddenly, a guinea pig"},
+        {"square": "Misspornouces username"},
+        {"square": "Popcorn"},
+        {"square": "uWu"},
     ]
 };
