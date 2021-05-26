@@ -12,7 +12,7 @@
 
 body {
     background-color: #a1a1a1;
-    background-image: url('../img/f06de0397d2b1541c7526538291747e5968d95ad.jpg');
+    background-image: url('../img/rough_wood_5_by_sharandra_d5agsrz.jpg');
     font-family: "BodoniSvtyTwoOSITCTT-Bold", "Georgia", serif;
     text-rendering: optimizeLegibility;
 }
@@ -25,11 +25,45 @@ body {
     background-color: none;
 }
 
+#infobox {
+    width: 800px;
+    text-align: center;
+    font-family: "BodoniSvtyTwoOSITCTT-Bold", "Georgia", serif;
+    font-size: 2.2em;
+    text-align: center;
+    padding: 20px 20px 12px 20px;
+    text-shadow: 0px 1px 0px #e1e1e1, 0px -1px 0px #313131;
+    opacity: 0.7;
+}
+
+@keyframes color-change {
+    0% {
+        color: red;
+    }
+    25% {
+        color: blue;
+    }
+    50% {
+        color: green;
+    }
+    75% {
+        color: yellow;
+    }
+    100% {
+        color: red;
+    }
+}
+
+#infobox a {
+    text-decoration: none;
+    animation: color-change ease-in-out 3s 10;
+}
+
 #header,
 #footer {
     display: block;
     float: left;
-    width: 760px;
+    width: 800px;
     color: #FFFFFF;
     opacity: 0.7;
     text-shadow: 0px 1px 0px #e1e1e1, 0px -1px 0px #313131;
