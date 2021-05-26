@@ -80,15 +80,24 @@ body {
 }
 
 #footer {
-    text-align: center;
     font-size: 1.4em;
-    padding: 3px 20px;
+    padding-top: 3px 20px;
     margin-bottom: 80px;
 }
 
 #footer a {
     text-decoration: none;
     color: #FFFFFF;
+}
+
+#footer #left {
+    float: left;
+    text-align: left;
+}
+
+#footer #right {
+    float: right;
+    text-align: right;
 }
 
 #board {
